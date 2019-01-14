@@ -4,23 +4,23 @@ self.__precacheManifest = [
     "url": "/ContactBook/static/js/runtime~main.0f82510b.js"
   },
   {
-    "revision": "7adc193e93c247615c4d",
-    "url": "/ContactBook/static/js/main.7adc193e.chunk.js"
+    "revision": "6f1420af554076a6155b",
+    "url": "/ContactBook/static/js/main.6f1420af.chunk.js"
   },
   {
-    "revision": "1da4f126796aef1f95b3",
-    "url": "/ContactBook/static/js/1.1da4f126.chunk.js"
+    "revision": "bc2c253bad6993e14e8e",
+    "url": "/ContactBook/static/js/1.bc2c253b.chunk.js"
   },
   {
-    "revision": "7adc193e93c247615c4d",
+    "revision": "6f1420af554076a6155b",
     "url": "/ContactBook/static/css/main.a538c83e.chunk.css"
   },
   {
-    "revision": "1da4f126796aef1f95b3",
+    "revision": "bc2c253bad6993e14e8e",
     "url": "/ContactBook/static/css/1.65ef60c9.chunk.css"
   },
   {
-    "revision": "81b0b822d3c8b63790fdbb4a3c84f7ad",
+    "revision": "edbb7a3ecce4093512eed8e850ae92df",
     "url": "/ContactBook/index.html"
   }
 ];
